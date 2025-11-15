@@ -31,10 +31,9 @@ Single router connected to an FTP server using a crossover cable.
 
 ---
 
-## 4. Step-by-Step Summary
-
-### A. Configure router Ethernet interface
+### Router Initial Configuration
 ![Router initial configuration](lab01-screenshots/router-initial-config.png
+
 ```bash
 enable
 conf t
