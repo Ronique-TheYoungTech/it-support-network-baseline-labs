@@ -44,13 +44,12 @@ end
 ```
  📌 Task 3 — Server IP Configuration
 ### Server IP Configuration
-
-![Server IP configuration window](../lab01-screenshots/server-ip-configuration.png)
+![Server IP configuration window](lab01-remote-file-access-ftp/lab01-screenshots/server-ip-configuration.png)
 
 📌 Task 4 — Ping Test
 ### Ping Test (Server → Router)
 
-![Ping test from server to router](../lab01-screenshots/ping-test.png)
+![Ping test from server to router](lab01-remote-file-access-ftp/lab01-screenshots/ping-test.png)
 
 📌 Task 5 — Saving Running Config
 ### Saving the Router Running Configuration
