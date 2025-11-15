@@ -32,7 +32,7 @@ Single router connected to an FTP server using a crossover cable.
 ---
 
 ### Router Initial Configuration
-![Router initial configuration](lab01-screenshots/router-initial-config.png
+![Router initial configuration](../lab01-screenshots/router-initial-config.png)
 
 ```bash
 enable
