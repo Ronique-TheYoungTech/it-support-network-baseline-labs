@@ -38,7 +38,7 @@ Single router connected to an FTP server using a crossover cable.
 ```bash
 enable
 conf t
-interface f0/0
+interface Gig0/0
  ip address 192.168.1.1 255.255.255.0
  no shut
 end
