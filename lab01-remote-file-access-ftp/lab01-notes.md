@@ -54,28 +54,31 @@ end
 📌 Task 5 — Saving Running Config
 ### Saving the Router Running Configuration
 
-![Saving running configuration using copy run start](../lab01-screenshots/copy-run-start.png)
+![Saving running configuration using copy run start](lab01-remote-file-access-ftp/lab01-screenshots/copy-run-start.png)
 
 📌 Task 6 — FTP Server User Setup
 ### FTP User Setup on the Server
 
-![FTP user setup](../lab01-screenshots/ftp-user-setup.png)
+![FTP user setup](lab01-remote-file-access-ftp/lab01-screenshots/ftp-user-setup.png)
 
 📌 Task 7 — FTP Credentials on Router
 ### FTP Credentials Added to Router
 
-![FTP credentials added on router](../lab01-screenshots/ftp-credentials-router.png)
+![FTP credentials added on router](lab01-remote-file-access-ftp/lab01-screenshots/ftp-credentials-router.png)
+
 
 📌 Task 8 — FTP Backup Success
 ### Router Configuration Backup to FTP (Success)
 
-![FTP backup success](../lab01-screenshots/ftp-backup-success.png)
+![FTP credentials added on router](lab01-remote-file-access-ftp/lab01-screenshots/ftp-credentials-router.png)
 
 📌 Task 9 — FTP File List (Verification)
 ### FTP Server File List (Backup Verified)
 
 The router’s configuration file (15Nov25) appears on the FTP server, confirming a successful backup.
 
-![FTP file list showing backup](../lab01-screenshots/ftp-file-list.png)
+![FTP file list showing backup](lab01-remote-file-access-ftp/lab01-screenshots/ftp-file-list.png)
+
+
 
  
